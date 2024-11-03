@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 body {
     font-family: Nunito Sans;
-    background-color: #cfd2ce;
+    background-color: #a8cfdb;
     color: #1a1a1a;
     display: flex;
     flex-direction: column;
@@ -54,4 +54,18 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     max-height: 400px;
+}
+
+.apartment-description {
+    max-width: 800px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: Nunito Sans;
+}
+
+.contact {
+    max-width: 800px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: Nunito Sans;
 }
